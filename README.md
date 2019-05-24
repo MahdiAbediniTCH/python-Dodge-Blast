@@ -1,7 +1,11 @@
 # python-Dodge-Blast
+
 A python version of mobile game Dodge Blast
+
 version 1.1
+
 -- minor bug fixes(explosion effect, projectiles removed during level up etc.)
+
 -- game got a little harder:
 	- ship moves faster
 	- added enemy groups
