@@ -35,5 +35,3 @@ please install game font located in folder before running the game
 *This game is originally designed and made by BUN GUN for ios and android, this is just a python version of it.
 
 Made by MahdiAbediniTCH
-
-p.s. sorry that the code is a little messy.
